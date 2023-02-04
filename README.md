@@ -1,7 +1,5 @@
 # Presentazione
 > Questa è la mia prima repository su git.
 
-Spero vi piaccia.
-
-## Saluti
-Mi chiamo **Nicola Travaglini**!
+## Cambiamenti
+Andiamo a modificare _ogni_ parte di questo documento, affinché si capisca il senso delle **branch**.
