@@ -1,7 +1,8 @@
 # Presentazione
 > Questa è la mia prima repository su git.
 
-Spero vi piaccia.
+## Cosa sto facendo
+Sto creando una branch da una branch, che successivamente pusherò nella repository remota su GitHub!
 
-## Saluti
-Mi chiamo **Nicola Travaglini**!
+## Cambiamenti
+Andiamo a modificare _ogni_ parte di questo documento, affinché si capisca il senso delle **branch**.
